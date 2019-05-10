@@ -31,6 +31,5 @@ require_once '/controllers/StudentController.php';
   // });
   $app->run();
 ?>
-สิ้นสุดการสนทนาผ่านแชท
-พิมพ์ข้อความ...
+
 
